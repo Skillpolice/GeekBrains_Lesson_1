@@ -1,0 +1,7 @@
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_5\bin\Release\Task_5.exe.config
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_5\bin\Release\Task_5.exe
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_5\bin\Release\Task_5.pdb
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_5\obj\Release\Task_5.csproj.CoreCompileInputs.cache
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_5\obj\Release\Task_5.exe
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_5\obj\Release\Task_5.pdb
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_5\obj\Release\Task_5.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_3_coordinat\bin\Release\Task_3_coordinat.exe.config
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_3_coordinat\bin\Release\Task_3_coordinat.exe
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_3_coordinat\bin\Release\Task_3_coordinat.pdb
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_3_coordinat\obj\Release\Task_3_coordinat.csproj.AssemblyReference.cache
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_3_coordinat\obj\Release\Task_3_coordinat.csproj.CoreCompileInputs.cache
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_3_coordinat\obj\Release\Task_3_coordinat.exe
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_3_coordinat\obj\Release\Task_3_coordinat.pdb

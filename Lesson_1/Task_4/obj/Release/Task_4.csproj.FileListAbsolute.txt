@@ -1,0 +1,6 @@
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_4\bin\Release\Task_4.exe.config
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_4\bin\Release\Task_4.exe
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_4\bin\Release\Task_4.pdb
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_4\obj\Release\Task_4.csproj.CoreCompileInputs.cache
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_4\obj\Release\Task_4.exe
+D:\Unity_Learn\GeekBrains\C#_GeekBrains\Lesson_1\Task_4\obj\Release\Task_4.pdb
